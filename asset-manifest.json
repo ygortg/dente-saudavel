@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dente-saudavel/static/css/main.1eb490d7.css",
+    "main.js": "/dente-saudavel/static/js/main.09a8a741.js",
+    "static/js/787.e5cbd2dc.chunk.js": "/dente-saudavel/static/js/787.e5cbd2dc.chunk.js",
+    "index.html": "/dente-saudavel/index.html",
+    "main.1eb490d7.css.map": "/dente-saudavel/static/css/main.1eb490d7.css.map",
+    "main.09a8a741.js.map": "/dente-saudavel/static/js/main.09a8a741.js.map",
+    "787.e5cbd2dc.chunk.js.map": "/dente-saudavel/static/js/787.e5cbd2dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb490d7.css",
+    "static/js/main.09a8a741.js"
+  ]
+}
